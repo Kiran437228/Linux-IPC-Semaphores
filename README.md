@@ -1,9 +1,9 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
-Name:KIRAN KUMAR CS
+Name : KIRAN KUMAR CS
 
-Reg No:212224240076
+Reg No : 212224240076
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
